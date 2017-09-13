@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiterAR", "Assembly-CSharp.csproj", "{EE3B0E14-5D57-5CB6-9006-2A8C50ACFE29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiterAR", "Assembly-CSharp-firstpass.csproj", "{EC18C078-A906-720C-8E05-6D0FDB279D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiterAR", "Assembly-CSharp-Editor.csproj", "{C38FA023-2AE6-C1C8-89C7-06C4ECD1784A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3B0E14-5D57-5CB6-9006-2A8C50ACFE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3B0E14-5D57-5CB6-9006-2A8C50ACFE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3B0E14-5D57-5CB6-9006-2A8C50ACFE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3B0E14-5D57-5CB6-9006-2A8C50ACFE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC18C078-A906-720C-8E05-6D0FDB279D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC18C078-A906-720C-8E05-6D0FDB279D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC18C078-A906-720C-8E05-6D0FDB279D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC18C078-A906-720C-8E05-6D0FDB279D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38FA023-2AE6-C1C8-89C7-06C4ECD1784A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38FA023-2AE6-C1C8-89C7-06C4ECD1784A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38FA023-2AE6-C1C8-89C7-06C4ECD1784A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38FA023-2AE6-C1C8-89C7-06C4ECD1784A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
